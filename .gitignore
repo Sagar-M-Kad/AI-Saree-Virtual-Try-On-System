@@ -1,0 +1,5 @@
+node_modules/
+.env
+client.zip
+temp_repo/
+uploads/
